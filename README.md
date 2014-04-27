@@ -6,7 +6,7 @@ Follow the instructions below to perform the analysis that will provide two plai
 (2) a subset of the full data set only containing averages by subject and activity of variables refering to mean() or std(). 
 
 
-## Instructions:  
+### Instructions:  
 *  Get the data from 'https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip'. 
 *  Extract the zip archive 'getdata-projectfiles-UCI HAR Dataset.zip'.
 *  Copy the script 'run_analysis.R' to the directory './UCI HAR Dataset', which was created by unzipping the downloaded archive.  
